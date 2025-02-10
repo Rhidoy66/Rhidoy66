@@ -1,6 +1,6 @@
 -                                                                                                       👋 {Hi, Assalamu Alailkum}
 I Am RHIDOY
-- 👀 I’m interested in  masicine learning, currently i am a student. I am studying diploma engeneering depertment of computer secience.
+- 👀 I’m interested in  masicine Languge learning, currently i am a student. I am studying diploma engeneering depertment of computer secience.
 - 🌱 I’m currently learning python language
 - 💞️ I’m looking to collaborate on new project
 - 📫 you can contracet me ( mdridoyhasan780@gmail.com) this is my personal maill address.{(AR780b)this is my fb url }
